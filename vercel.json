@@ -1,4 +1,10 @@
 {
   "buildCommand": "cd schemes/yojana-shodhak && npm install && npm run build",
-  "outputDirectory": "schemes/yojana-shodhak/dist"
+  "outputDirectory": "schemes/yojana-shodhak/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
