@@ -1,0 +1,47 @@
+{
+  "scheme_details": {
+    "scheme_name": "Stand-Up India Scheme",
+    "launch_date": "2016-04-05",
+    "extended_validity": "Up to 2030",
+    "nodal_agency": "Small Industries Development Bank of India (SIDBI) & National Bank for Agriculture and Rural Development (NABARD)",
+    "ministry": "Ministry of Finance, Government of India",
+    "official_website": "https://www.standupmitra.in/",
+    "objective": "To promote entrepreneurship among women and Scheduled Caste (SC) / Scheduled Tribe (ST) communities by facilitating bank loans for setting up greenfield enterprises."
+  },
+  "key_features": {
+    "target_beneficiaries": "At least one SC or ST borrower and at least one woman borrower per bank branch.",
+    "loan_amount": "From Rs. 10 Lakh up to Rs. 1 Crore.",
+    "loan_type": "Composite Loan (inclusive of Term Loan and Working Capital).",
+    "project_type": "Greenfield Projects only (first-time venture in manufacturing, services, trading, or activities allied to agriculture)."
+  },
+  "eligibility_criteria": {
+    "applicant_age": "Minimum 18 years.",
+    "categories": "SC / ST and/or Women Entrepreneurs.",
+    "non_individual_entities": "At least 51% of shareholding and controlling stake must be held by an SC/ST and/or Woman Entrepreneur.",
+    "credit_history": "The borrower should not be in default to any bank or financial institution."
+  },
+  "financial_terms_and_benefits": {
+    "interest_rate": "Lowest applicable rate of the bank for that category, not to exceed (MCLR + 3% + Tenor Premium).",
+    "security": "Besides primary security, the loan can be secured by collateral security or guarantee under the Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL).",
+    "repayment_period": "Repayable in 7 years with a maximum moratorium period of 18 months.",
+    "working_capital_support": {
+      "up_to_10_lakh": "Sanctioned by way of Overdraft (OD) with a RuPay debit card.",
+      "above_10_lakh": "Sanctioned by way of Cash Credit (CC) limit."
+    },
+    "margin_money": "The margin requirement can be up to 15% of the project cost (can be converged with state/other schemes)."
+  },
+  "required_documents": [
+    "Proof of Identity (Voter ID, Passport, Driving License, PAN Card)",
+    "Proof of Residence (Electricity Bill, Telephone Bill, Property Tax Receipt)",
+    "Proof of Business Address",
+    "Certificate of Incorporation / Partnership Deed",
+    "Project Report / Business Plan describing viability",
+    "Caste Certificate (for SC/ST category applicants)",
+    "Asset & Liability Statement of promoters and guarantors"
+  ],
+  "application_modes": [
+    "Directly at a Bank Branch",
+    "Through SIDBI Stand-Up India Portal (www.standupmitra.in)",
+    "Through the Lead District Manager (LDM)"
+  ]
+}

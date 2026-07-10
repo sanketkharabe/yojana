@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Ayushman Bharat PM-JAY",
+  "eligibility_criteria": {
+    "basis": "SECC 2011 Database",
+    "rural_eligible_categories": [
+      {
+        "code": "D1",
+        "criteria": "One room house with kutcha walls and roof"
+      },
+      {
+        "code": "D2",
+        "criteria": "No adult member between 16 and 59 years"
+      },
+      {
+        "code": "D3",
+        "criteria": "Female-headed family with no adult male member (16-59 years)"
+      },
+      {
+        "code": "D4",
+        "criteria": "Disabled member and no able-bodied adult"
+      },
+      {
+        "code": "D5",
+        "criteria": "SC/ST household"
+      },
+      {
+        "code": "D7",
+        "criteria": "Landless family dependent on manual labour"
+      }
+    ],
+    "automatic_inclusion": [
+      "Destitute families",
+      "Families living on alms",
+      "Manual scavenger households",
+      "Primitive tribal groups",
+      "Legally released bonded labourers"
+    ],
+    "urban_eligible_categories": [
+      "Ragpickers",
+      "Beggars",
+      "Domestic workers",
+      "Street vendors",
+      "Construction workers",
+      "Plumbers",
+      "Masons",
+      "Painters",
+      "Electricians",
+      "Drivers",
+      "Helpers",
+      "Security guards",
+      "Sanitation workers",
+      "Gardeners",
+      "Mechanics",
+      "Shop workers",
+      "Tailors",
+      "Transport workers"
+    ],
+    "senior_citizens": {
+      "eligible": true,
+      "age": "70 years and above",
+      "income_limit": "No income restriction"
+    },
+    "family_size_limit": false,
+    "age_limit": "No upper age limit",
+    "gender_restriction": false,
+    "required_for_verification": [
+      "Aadhaar Card",
+      "Mobile Number",
+      "Ration Card (if available)"
+    ]
+  },
+  "benefit_summary": {
+    "health_cover": 500000,
+    "currency": "INR",
+    "coverage": "Per family per year",
+    "cashless_treatment": true
+  }
+}

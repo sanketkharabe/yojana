@@ -1,0 +1,135 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री जीवन ज्योती विमा योजना",
+      "english": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "short_name": "PMJJBY"
+    },
+    "launched_by": "Government of India",
+    "launch_date": "2015-05-09",
+    "launched_at": "Kolkata, West Bengal",
+    "official_website": "https://jansuraksha.gov.in",
+    "helpline": "1800-180-1111",
+    "nodal_ministry": "Ministry of Finance, Government of India",
+    "implementing_agency": "Participating Banks and Life Insurance Companies",
+    "policy_type": "Renewable One-Year Life Insurance Scheme",
+    "coverage_period": "1 June to 31 May every year"
+  },
+  "objective": {
+    "primary": "Provide affordable life insurance coverage to citizens",
+    "secondary": [
+      "Financial protection to families in case of death of earning member",
+      "Increase insurance penetration among low-income households",
+      "Promote social security coverage",
+      "Provide life insurance at nominal premium"
+    ]
+  },
+  "benefits": {
+    "life_insurance_cover": {
+      "amount": 200000,
+      "currency": "INR",
+      "payable_on": "Death of insured person due to any reason"
+    },
+    "premium": {
+      "annual_amount": 436,
+      "currency": "INR",
+      "auto_debit": true,
+      "payment_mode": "Auto-debited from bank account annually"
+    },
+    "claim_benefit": {
+      "amount": 200000,
+      "currency": "INR",
+      "nominee_receives": true
+    }
+  },
+  "eligibility_criteria": {
+    "citizenship": {
+      "required": true,
+      "details": "Indian resident with a savings bank account"
+    },
+    "age": {
+      "minimum": 18,
+      "maximum": 50,
+      "unit": "years",
+      "note": "Entry allowed up to age 50 years"
+    },
+    "coverage_age_limit": {
+      "maximum": 55,
+      "unit": "years",
+      "note": "Coverage can continue up to age 55 with annual renewal"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Must have an active savings bank account"
+    },
+    "aadhaar": {
+      "required": true,
+      "details": "Aadhaar should be linked to bank account"
+    },
+    "multiple_accounts": {
+      "allowed": false,
+      "note": "Only one PMJJBY policy is allowed per individual"
+    },
+    "medical_examination": {
+      "required": false,
+      "details": "No medical test required for enrollment"
+    }
+  },
+  "documents_required": {
+    "mandatory": [
+      "Aadhaar Card",
+      "Savings Bank Account",
+      "Consent for Auto-Debit"
+    ],
+    "during_claim": [
+      "Death Certificate",
+      "Claim Form",
+      "Discharge Receipt",
+      "Nominee Identity Proof",
+      "Bank Account Details of Nominee"
+    ]
+  },
+  "enrollment_process": {
+    "step_1": "Visit participating bank or enroll through net banking/mobile banking",
+    "step_2": "Provide consent for annual premium auto-debit",
+    "step_3": "Submit required details and nominee information",
+    "step_4": "Insurance coverage starts after successful enrollment"
+  },
+  "claim_process": {
+    "step_1": "Nominee informs bank about death of insured person",
+    "step_2": "Submit claim form and death certificate",
+    "step_3": "Bank verifies details and forwards claim",
+    "step_4": "Insurance company processes claim",
+    "step_5": "₹2 lakh benefit credited to nominee"
+  },
+  "termination_conditions": {
+    "coverage_ends_if": [
+      "Insured attains age 55 years",
+      "Bank account is closed",
+      "Insufficient balance for premium deduction",
+      "Multiple PMJJBY accounts detected",
+      "Policy is voluntarily discontinued"
+    ]
+  },
+  "important_features": {
+    "life_cover": "₹2 Lakh",
+    "annual_premium": "₹436",
+    "medical_test_required": false,
+    "renewable_every_year": true,
+    "auto_debit_facility": true,
+    "nominee_benefit": true,
+    "death_due_to_any_reason_covered": true
+  },
+  "statistics": {
+    "scheme_type": "Life Insurance",
+    "coverage_amount": "₹2 Lakh",
+    "premium": "₹436 per year",
+    "entry_age": "18-50 years",
+    "coverage_upto": "55 years"
+  },
+  "contact_details": {
+    "official_website": "https://jansuraksha.gov.in",
+    "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "managed_by": "Ministry of Finance, Government of India"
+  }
+}

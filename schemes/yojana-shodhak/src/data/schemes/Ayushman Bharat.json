@@ -1,0 +1,133 @@
+{
+  "scheme_details": {
+    "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+    "short_name": "AB PM-JAY",
+    "launch_date": "2018-09-23",
+    "nodal_agency": "National Health Authority (NHA)",
+    "ministry": "Ministry of Health and Family Welfare, Government of India",
+    "official_website": "https://pmjay.gov.in/",
+    "objective": "To provide universal health coverage to the poor and vulnerable population of India, reducing out-of-pocket expenditure on healthcare."
+  },
+  "coverage_and_benefits": {
+    "financial_coverage": {
+      "amount_per_family_per_year": 500000,
+      "currency": "INR",
+      "premium_paid_by_beneficiary": 0
+    },
+    "treatment_features": {
+      "is_cashless": true,
+      "is_paperless": true,
+      "pre_existing_diseases_covered": true,
+      "waiting_period": "None (Covered from day one)"
+    },
+    "hospitalization_expenses_covered": {
+      "pre_hospitalization_days": 3,
+      "post_hospitalization_days": 15,
+      "inclusions": [
+        "Medical examination, treatment, and consultation",
+        "Pre-hospitalization procedures",
+        "Medicine and medical consumables",
+        "Non-intensive and intensive care services",
+        "Diagnostic and laboratory investigations",
+        "Medical implantation services (where necessary)",
+        "Accommodation benefits",
+        "Food services",
+        "Complications arising during treatment"
+      ]
+    },
+    "medical_procedures": {
+      "total_procedures_covered": "1,900+",
+      "care_levels": [
+        "Secondary Care",
+        "Tertiary Care"
+      ]
+    }
+  },
+  "eligibility_and_target_groups": {
+    "primary_identification_database": "Socio-Economic Caste Census (SECC) 2011",
+    "rural_criteria": [
+      "Households with only one room with kucha walls and kucha roof",
+      "Households with no adult member between ages 16 to 59",
+      "Female-headed households with no adult male member between 16 to 59",
+      "Families with a disabled member and no able-bodied adult member",
+      "SC/ST households",
+      "Landless households deriving major income from manual casual labour",
+      "Destitute and those living on alms",
+      "Manual scavenger families",
+      "Primitive tribal groups",
+      "Legally released bonded labour"
+    ],
+    "urban_criteria": [
+      "Ragpickers",
+      "Beggars",
+      "Domestic workers",
+      "Street vendors, cobblers, hawkers",
+      "Construction workers, plumbers, masons, painters",
+      "Sweepers, sanitation workers",
+      "Transport workers (drivers, conductors, helpers)",
+      "Tailors and handicraft workers"
+    ],
+    "special_expansions": {
+      "senior_citizens": "All senior citizens aged 70 years and above (Ayushman Vay Vandana Card)",
+      "health_workers": [
+        "Accredited Social Health Activists (ASHAs)",
+        "Anganwadi Workers (AWWs)",
+        "Anganwadi Helpers (AWHs)"
+      ]
+    }
+  },
+  "registration_and_documents": {
+    "modes_of_registration": [
+      "PMJAY Beneficiary Portal",
+      "Ayushman App",
+      "Common Service Centres (CSCs)",
+      "Empanelled Hospitals (Ayushman Mitras)"
+    ],
+    "mandatory_documents": [
+      "Aadhaar Card",
+      "Ration Card or Family ID",
+      "Aadhaar-linked Mobile Number (for OTP)"
+    ]
+  },
+  "operational_status": {
+    "geographical_coverage": "All 36 States and Union Territories",
+    "recent_state_onboardings": [
+      {
+        "state": "Odisha",
+        "month_year": "January 2025"
+      },
+      {
+        "state": "Delhi",
+        "month_year": "April 2025"
+      },
+      {
+        "state": "West Bengal",
+        "month_year": "May 2026"
+      }
+    ]
+  },
+  "latest_statistics_2026": {
+    "data_as_of": "June 2026",
+    "beneficiary_metrics": {
+      "ayushman_cards_created_crore": 44.14,
+      "senior_citizens_enrolled_crore": 1.20
+    },
+    "hospitalization_metrics": {
+      "total_hospitalizations_covered_crore": 12.03,
+      "treatment_amount_provided_inr_crore": 180435
+    },
+    "hospital_empanelment": {
+      "total_empanelled_hospitals": 36218,
+      "public_hospitals": 19659,
+      "private_hospitals": 16559
+    }
+  },
+  "support_and_contact": {
+    "toll_free_helpline": [
+      "14555",
+      "1800-111-565"
+    ],
+    "email_support": "ayushmanbharat.csc@gmail.com",
+    "grievance_portal": "https://cgrms.pmjay.gov.in/"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री किसान सन्मान निधी योजना",
+      "english": "Pradhan Mantri Kisan Samman Nidhi",
+      "short_name": "PM-KISAN"
+    },
+    "launched_by": "Government of India",
+    "launch_date": "2019-02-24",
+    "official_website": "https://pmkisan.gov.in",
+    "helpline": "155261 / 1800-115-526",
+    "nodal_ministry": "Ministry of Agriculture and Farmers Welfare",
+    "implementing_agency": "Department of Agriculture and Farmers Welfare",
+    "scheme_type": "Direct Income Support Scheme"
+  },
+  "objective": {
+    "primary": "Provide financial assistance to eligible farmer families",
+    "secondary": [
+      "Support agricultural expenses",
+      "Reduce financial burden on farmers",
+      "Increase agricultural productivity",
+      "Provide income security to small and marginal farmers",
+      "Strengthen rural economy"
+    ]
+  },
+  "benefits": {
+    "annual_financial_assistance": {
+      "amount": 6000,
+      "currency": "INR",
+      "payment_mode": "Direct Benefit Transfer (DBT)"
+    },
+    "installments": {
+      "number_of_installments": 3,
+      "amount_per_installment": 2000,
+      "frequency": "Every 4 months"
+    },
+    "bank_transfer": {
+      "direct_transfer": true,
+      "aadhaar_based": true
+    }
+  },
+  "eligibility_criteria": {
+    "farmer_family": {
+      "required": true,
+      "details": "Family owning cultivable agricultural land"
+    },
+    "land_ownership": {
+      "required": true,
+      "details": "Applicant must be recorded land owner as per state land records"
+    },
+    "citizenship": {
+      "required": true,
+      "details": "Must be an Indian citizen"
+    },
+    "aadhaar": {
+      "required": true,
+      "details": "Aadhaar linkage is mandatory"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Valid bank account for DBT transfer"
+    },
+    "excluded_categories": [
+      "Institutional landholders",
+      "Serving or retired constitutional post holders",
+      "Current or former Ministers",
+      "Members of Parliament (MPs)",
+      "Members of Legislative Assembly (MLAs)",
+      "Mayors and District Panchayat Chairpersons",
+      "Government employees (except Class IV/Multi Tasking Staff)",
+      "Income tax payers",
+      "Professionals such as Doctors, Engineers, Lawyers, Chartered Accountants, Architects registered with professional bodies"
+    ]
+  },
+  "documents_required": {
+    "mandatory": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Passbook",
+      "Mobile Number"
+    ],
+    "verification_documents": [
+      "Revenue Records",
+      "Farmer Registration Details"
+    ]
+  },
+  "application_process": {
+    "step_1": "Visit PM-KISAN Portal or CSC Centre",
+    "step_2": "Complete farmer registration",
+    "step_3": "Submit Aadhaar, bank and land details",
+    "step_4": "State Government verifies records",
+    "step_5": "Beneficiary approval",
+    "step_6": "DBT installments credited to bank account"
+  },
+  "important_features": {
+    "annual_assistance": "₹6,000",
+    "installments": "3 installments of ₹2,000",
+    "dbt_transfer": true,
+    "aadhaar_mandatory": true,
+    "land_owner_required": true,
+    "no_middleman": true
+  },
+  "statistics": {
+    "scheme_type": "Income Support Scheme",
+    "annual_benefit": "₹6,000",
+    "benefit_transfer_mode": "DBT",
+    "target_group": "Farmer Families"
+  },
+  "contact_details": {
+    "official_website": "https://pmkisan.gov.in",
+    "helpline": "155261",
+    "toll_free": "1800-115-526",
+    "managed_by": "Ministry of Agriculture and Farmers Welfare"
+  }
+}

@@ -1,0 +1,774 @@
+--- Import Log started at 2026-07-10T08:29:35.755549 ---
+Found 153 Excel files to process.
+Clearing existing beneficiaries table...
+
+Processing file: adgaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Adgaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\adgaon.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: ambala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ambala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\ambala.json
+File summary: 484 inserted, 0 skipped (duplicates).
+
+Processing file: ambheri.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ambheri
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\ambheri.json
+File summary: 361 inserted, 0 skipped (duplicates).
+
+Processing file: amla.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Amla
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\amla.json
+File summary: 345 inserted, 0 skipped (duplicates).
+
+Processing file: andharawadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Andharwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\andharawadi.json
+File summary: 177 inserted, 0 skipped (duplicates).
+
+Processing file: atharwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Atharwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\atharwadi.json
+File summary: 11 inserted, 0 skipped (duplicates).
+
+Processing file: balsaond.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Balsond
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\balsaond.json
+File summary: 251 inserted, 0 skipped (duplicates).
+
+Processing file: basamba.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Basamba
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\basamba.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: belura.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Belura
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\belura.json
+File summary: 419 inserted, 0 skipped (duplicates).
+
+Processing file: belwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Belwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\belwadi.json
+File summary: 100 inserted, 0 skipped (duplicates).
+
+Processing file: bhandegaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhandegaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhandegaon.json
+File summary: 442 inserted, 0 skipped (duplicates).
+
+Processing file: bhatsawangi tanda.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhatsawangi Tanda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhatsawangi tanda.json
+File summary: 290 inserted, 0 skipped (duplicates).
+
+Processing file: bhatswangi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhatsawangi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhatswangi.json
+File summary: 318 inserted, 0 skipped (duplicates).
+
+Processing file: bhingi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhingi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhingi.json
+File summary: 308 inserted, 0 skipped (duplicates).
+
+Processing file: bhirda.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhirda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhirda.json
+File summary: 374 inserted, 0 skipped (duplicates).
+
+Processing file: bhogaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhogaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhogaon.json
+File summary: 173 inserted, 0 skipped (duplicates).
+
+Processing file: bhuli.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bhuli
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bhuli.json
+File summary: 116 inserted, 0 skipped (duplicates).
+
+Processing file: bodkhi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bodkhi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bodkhi.json
+File summary: 258 inserted, 0 skipped (duplicates).
+
+Processing file: bondala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bondala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bondala.json
+File summary: 213 inserted, 0 skipped (duplicates).
+
+Processing file: borala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Borala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\borala.json
+File summary: 350 inserted, 0 skipped (duplicates).
+
+Processing file: boralwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Boralwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\boralwadi.json
+File summary: 250 inserted, 0 skipped (duplicates).
+
+Processing file: bori shikari.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bori Shikari
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bori shikari.json
+File summary: 374 inserted, 0 skipped (duplicates).
+
+Processing file: borja.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Borja
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\borja.json
+File summary: 149 inserted, 0 skipped (duplicates).
+
+Processing file: bramhpuri.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bramhapuri
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bramhpuri.json
+File summary: 197 inserted, 0 skipped (duplicates).
+
+Processing file: bukanwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Bukanwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\bukanwadi.json
+File summary: 47 inserted, 0 skipped (duplicates).
+
+Processing file: charthana.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Charthana
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\charthana.json
+File summary: 78 inserted, 0 skipped (duplicates).
+
+Processing file: chichpuri.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Chinchpuri
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\chichpuri.json
+File summary: 88 inserted, 0 skipped (duplicates).
+
+Processing file: chikhawadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Chikhalwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\chikhawadi.json
+File summary: 46 inserted, 0 skipped (duplicates).
+
+Processing file: chinchala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Chinchala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\chinchala.json
+File summary: 398 inserted, 0 skipped (duplicates).
+
+Processing file: chincholi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Chincholi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\chincholi.json
+File summary: 293 inserted, 0 skipped (duplicates).
+
+Processing file: chorjawala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Chorjawala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\chorjawala.json
+File summary: 292 inserted, 0 skipped (duplicates).
+
+Processing file: dategaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dategaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\dategaon.json
+File summary: 254 inserted, 0 skipped (duplicates).
+
+Processing file: deulgaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Deulgaon Rama
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\deulgaon.json
+File summary: 186 inserted, 0 skipped (duplicates).
+
+Processing file: devthana.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Devthana
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\devthana.json
+File summary: 286 inserted, 0 skipped (duplicates).
+
+Processing file: dhanapur.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dhanapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\dhanapur.json
+File summary: 350 inserted, 0 skipped (duplicates).
+
+Processing file: dhotarwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dhotarwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\dhotarwadi.json
+File summary: 75 inserted, 0 skipped (duplicates).
+
+Processing file: dhotra.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dhotra
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\dhotra.json
+File summary: 213 inserted, 0 skipped (duplicates).
+
+Processing file: digras karhale.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Digras K.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\digras karhale.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: DIGRASWANI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Digraswani
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\DIGRASWANI.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: DONGI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dongi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\DONGI.json
+File summary: 131 inserted, 0 skipped (duplicates).
+
+Processing file: DUDHERI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Dudheri
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\DUDHERI.json
+File summary: 100 inserted, 0 skipped (duplicates).
+
+Processing file: DURDHAMANI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Durgdhamni
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\DURDHAMANI.json
+File summary: 280 inserted, 0 skipped (duplicates).
+
+Processing file: DURGSAWANI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Durgasawangi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\DURGSAWANI.json
+File summary: 269 inserted, 0 skipped (duplicates).
+
+Processing file: EKAMBA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ekamba
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\EKAMBA.json
+File summary: 307 inserted, 0 skipped (duplicates).
+
+Processing file: GADIBORI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Gadibori
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GADIBORI.json
+File summary: 70 inserted, 0 skipped (duplicates).
+
+Processing file: GANESHWADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ganeshwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GANESHWADI.json
+File summary: 81 inserted, 0 skipped (duplicates).
+
+Processing file: GANJAPUR.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ganjapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GANJAPUR.json
+File summary: 2 inserted, 0 skipped (duplicates).
+
+Processing file: GHOGARTALA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ghogartala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GHOGARTALA.json
+File summary: 11 inserted, 0 skipped (duplicates).
+
+Processing file: GHOTA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Ghota
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GHOTA.json
+File summary: 367 inserted, 0 skipped (duplicates).
+
+Processing file: GIROLI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Giroli
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\GIROLI.json
+File summary: 200 inserted, 0 skipped (duplicates).
+
+Processing file: HANWATKHEDA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Hanwatkheda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\HANWATKHEDA.json
+File summary: 230 inserted, 0 skipped (duplicates).
+
+Processing file: HINGNI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Hingni
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\HINGNI.json
+File summary: 322 inserted, 0 skipped (duplicates).
+
+Processing file: HINGOLI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Hingoli
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\HINGOLI.json
+File summary: 298 inserted, 0 skipped (duplicates).
+
+Processing file: HIRADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Hiradi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\HIRADI.json
+File summary: 365 inserted, 0 skipped (duplicates).
+
+Processing file: HIVRABEL.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Hiwara Bel
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\HIVRABEL.json
+File summary: 49 inserted, 0 skipped (duplicates).
+
+Processing file: IDOLI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Idoli
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\IDOLI.json
+File summary: 448 inserted, 0 skipped (duplicates).
+
+Processing file: INCHA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Incha
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\INCHA.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: ISAPUR.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Isapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\ISAPUR.json
+File summary: 353 inserted, 0 skipped (duplicates).
+
+Processing file: JAMBHARUN ANDHWADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jambharun Andhwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAMBHARUN ANDHWADI.json
+File summary: 6 inserted, 0 skipped (duplicates).
+
+Processing file: JAMBHARUN JAHANGIR.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jamrun jahagir
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAMBHARUN JAHANGIR.json
+File summary: 103 inserted, 0 skipped (duplicates).
+
+Processing file: JAMRUN ANDH.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jamrun andh
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAMRUN ANDH.json
+File summary: 328 inserted, 0 skipped (duplicates).
+
+Processing file: JAMTHI KH.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jamthi Kh.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAMTHI KH.json
+File summary: 373 inserted, 0 skipped (duplicates).
+
+Processing file: JAMWADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jamwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAMWADI.json
+File summary: 57 inserted, 0 skipped (duplicates).
+
+Processing file: JAULKA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jaulka
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAULKA.json
+File summary: 29 inserted, 0 skipped (duplicates).
+
+Processing file: JAYPURWADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jaipurwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JAYPURWADI.json
+File summary: 183 inserted, 0 skipped (duplicates).
+
+Processing file: JODTALA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Jodtala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\JODTALA.json
+File summary: 231 inserted, 0 skipped (duplicates).
+
+Processing file: KADTI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kadti
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KADTI.json
+File summary: 428 inserted, 0 skipped (duplicates).
+
+Processing file: KALAMKONDA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kalamkonda Bk.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KALAMKONDA.json
+File summary: 228 inserted, 0 skipped (duplicates).
+
+Processing file: KALBURGA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kalburga
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KALBURGA.json
+File summary: 153 inserted, 0 skipped (duplicates).
+
+Processing file: KALGAON.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kalgaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KALGAON.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: KALKONDI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kalkondi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KALKONDI.json
+File summary: 276 inserted, 0 skipped (duplicates).
+
+Processing file: Kanadkhed Bu.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kanadkheda Bk.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kanadkhed Bu.json
+File summary: 402 inserted, 0 skipped (duplicates).
+
+Processing file: Kanadkheda Khu.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kanadkheda Kh.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kanadkheda Khu.json
+File summary: 296 inserted, 0 skipped (duplicates).
+
+Processing file: Kanergaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kanhergaon naka
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kanergaon.json
+File summary: 184 inserted, 0 skipped (duplicates).
+
+Processing file: KANKA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kanka
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KANKA.json
+File summary: 352 inserted, 0 skipped (duplicates).
+
+Processing file: Kapurkheda.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kapurkheda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kapurkheda.json
+File summary: 70 inserted, 0 skipped (duplicates).
+
+Processing file: KARANJALA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Karanjala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KARANJALA.json
+File summary: 201 inserted, 0 skipped (duplicates).
+
+Processing file: Karwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Karwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Karwadi.json
+File summary: 206 inserted, 0 skipped (duplicates).
+
+Processing file: Kesapur.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kesapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kesapur.json
+File summary: 429 inserted, 0 skipped (duplicates).
+
+Processing file: Khadkad.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khadkad Bk
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Khadkad.json
+File summary: 199 inserted, 0 skipped (duplicates).
+
+Processing file: Khambala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khambala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Khambala.json
+File summary: 310 inserted, 0 skipped (duplicates).
+
+Processing file: Khanapu bk.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khanapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Khanapu bk.json
+File summary: 120 inserted, 0 skipped (duplicates).
+
+Processing file: Khanapur CHITA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khanapur Chi.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Khanapur CHITA.json
+File summary: 390 inserted, 0 skipped (duplicates).
+
+Processing file: Khandala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khandala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Khandala.json
+File summary: 411 inserted, 0 skipped (duplicates).
+
+Processing file: KHARBI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kharbi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KHARBI.json
+File summary: 220 inserted, 0 skipped (duplicates).
+
+Processing file: KHED.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Khed
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KHED.json
+File summary: 174 inserted, 0 skipped (duplicates).
+
+Processing file: KHERDA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kherda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KHERDA.json
+File summary: 362 inserted, 0 skipped (duplicates).
+
+Processing file: Kherdawadi -.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kherdawadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Kherdawadi -.json
+File summary: 64 inserted, 0 skipped (duplicates).
+
+Processing file: KOTHALAJ.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Kothalaj
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\KOTHALAJ.json
+File summary: 431 inserted, 0 skipped (duplicates).
+
+Processing file: koyali.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Koyali
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\koyali.json
+File summary: 96 inserted, 0 skipped (duplicates).
+
+Processing file: LASINA.xlsx
+Parsed Location: State=MAHARASHTRA, District=Hingoli, Taluka=Hingoli, Village=Lasina
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\LASINA.json
+File summary: 315 inserted, 0 skipped (duplicates).
+
+Processing file: Limbala Makta.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Limbala makta
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Limbala Makta.json
+File summary: 85 inserted, 0 skipped (duplicates).
+
+Processing file: LIMBALA PRA WA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Limbala pr.washim
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\LIMBALA PRA WA.json
+File summary: 222 inserted, 0 skipped (duplicates).
+
+Processing file: Limbi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Limbi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Limbi.json
+File summary: 175 inserted, 0 skipped (duplicates).
+
+Processing file: Lohara.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Lohra
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Lohara.json
+File summary: 213 inserted, 0 skipped (duplicates).
+
+Processing file: LOHGAON.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Lohagaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\LOHGAON.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: MALDHAMNI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Maldhamni
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\MALDHAMNI.json
+File summary: 464 inserted, 0 skipped (duplicates).
+
+Processing file: MALHARWADI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Malharwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\MALHARWADI.json
+File summary: 50 inserted, 0 skipped (duplicates).
+
+Processing file: MALHIWARA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Malhiwara
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\MALHIWARA.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: MALSHELU.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Malselu
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\MALSHELU.json
+File summary: 379 inserted, 0 skipped (duplicates).
+
+Processing file: malwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Malwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\malwadi.json
+File summary: 20 inserted, 0 skipped (duplicates).
+
+Processing file: MAUJA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Mauja
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\MAUJA.json
+File summary: 200 inserted, 0 skipped (duplicates).
+
+Processing file: Mop.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Mop
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Mop.json
+File summary: 385 inserted, 0 skipped (duplicates).
+
+Processing file: NANDURA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Nandura
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\NANDURA.json
+File summary: 208 inserted, 0 skipped (duplicates).
+
+Processing file: NANDUSA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Nandusa
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\NANDUSA.json
+File summary: 209 inserted, 0 skipped (duplicates).
+
+Processing file: NARSI NAMDEV.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Narsi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\NARSI NAMDEV.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: NAVALGAVHAN.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Navalgavhan
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\NAVALGAVHAN.json
+File summary: 227 inserted, 0 skipped (duplicates).
+
+Processing file: NAWKHA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Nawkha
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\NAWKHA.json
+File summary: 127 inserted, 0 skipped (duplicates).
+
+Processing file: PAHENI.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Paheni
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\PAHENI.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: Palsona.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Palsona
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Palsona.json
+File summary: 380 inserted, 0 skipped (duplicates).
+
+Processing file: Pangri.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pangri
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Pangri.json
+File summary: 431 inserted, 0 skipped (duplicates).
+
+Processing file: PARDA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Parda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\PARDA.json
+File summary: 445 inserted, 0 skipped (duplicates).
+
+Processing file: Parola.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Parola
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Parola.json
+File summary: 217 inserted, 0 skipped (duplicates).
+
+Processing file: patan.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Patan
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\patan.json
+File summary: 92 inserted, 0 skipped (duplicates).
+
+Processing file: patonda.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Patonda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\patonda.json
+File summary: 127 inserted, 0 skipped (duplicates).
+
+Processing file: PEDGAON.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pedgaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\PEDGAON.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: Pedgaonwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pedgaonwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Pedgaonwadi.json
+File summary: 184 inserted, 0 skipped (duplicates).
+
+Processing file: Phalegaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Phalegaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Phalegaon.json
+File summary: 499 inserted, 0 skipped (duplicates).
+
+Processing file: Pimpaldari.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pimpaldari Tarf Basamba
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Pimpaldari.json
+File summary: 221 inserted, 0 skipped (duplicates).
+
+Processing file: Pimpalkhuta.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pimplekhuta
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Pimpalkhuta.json
+File summary: 344 inserted, 0 skipped (duplicates).
+
+Processing file: Pimprkhed.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Pimparkhed
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Pimprkhed.json
+File summary: 330 inserted, 0 skipped (duplicates).
+
+Processing file: raholi bk.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Raholi Bk.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\raholi bk.json
+File summary: 336 inserted, 0 skipped (duplicates).
+
+Processing file: Raholi Khu.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Raholi Kh.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Raholi Khu.json
+File summary: 217 inserted, 0 skipped (duplicates).
+
+Processing file: Rajura.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Rajura
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Rajura.json
+File summary: 340 inserted, 0 skipped (duplicates).
+
+Processing file: rajwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Rajwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\rajwadi.json
+File summary: 36 inserted, 0 skipped (duplicates).
+
+Processing file: sagad.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sagad
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\sagad.json
+File summary: 102 inserted, 0 skipped (duplicates).
+
+Processing file: samaga.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Samga
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\samaga.json
+File summary: 242 inserted, 0 skipped (duplicates).
+
+Processing file: Sandas Tarf Basamba.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sandas Tarf Basamba
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Sandas Tarf Basamba.json
+File summary: 57 inserted, 0 skipped (duplicates).
+
+Processing file: Santukpimpri.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Santuk pimpari
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Santukpimpri.json
+File summary: 292 inserted, 0 skipped (duplicates).
+
+Processing file: sarkali.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sarkali
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\sarkali.json
+File summary: 274 inserted, 0 skipped (duplicates).
+
+Processing file: sasewadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sasewadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\sasewadi.json
+File summary: 60 inserted, 0 skipped (duplicates).
+
+Processing file: SATAMBA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Satamba
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\SATAMBA.json
+File summary: 453 inserted, 0 skipped (duplicates).
+
+Processing file: SAVARKHEDA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sawar kheda
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\SAVARKHEDA.json
+File summary: 246 inserted, 1 skipped (duplicates).
+
+Processing file: SAWA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sawa
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\SAWA.json
+File summary: 417 inserted, 0 skipped (duplicates).
+
+Processing file: Sawad.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sawad
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Sawad.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: Sawargaon.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sawargaon
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Sawargaon.json
+File summary: 152 inserted, 0 skipped (duplicates).
+
+Processing file: Sayala.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sayala
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Sayala.json
+File summary: 141 inserted, 0 skipped (duplicates).
+
+Processing file: singarwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Singarwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\singarwadi.json
+File summary: 61 inserted, 0 skipped (duplicates).
+
+Processing file: Sirsam Khurd.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sirsam Kh
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Sirsam Khurd.json
+File summary: 215 inserted, 0 skipped (duplicates).
+
+Processing file: SIRSMA BK.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Sirsam Bk.
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\SIRSMA BK.json
+File summary: 342 inserted, 0 skipped (duplicates).
+
+Processing file: TAKALI T.N..xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Takli Tarf Nandapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\TAKALI T.N..json
+File summary: 293 inserted, 0 skipped (duplicates).
+
+Processing file: Tikhadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Tikhadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Tikhadi.json
+File summary: 123 inserted, 0 skipped (duplicates).
+
+Processing file: umarkhoja.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Umarkhoja
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\umarkhoja.json
+File summary: 369 inserted, 0 skipped (duplicates).
+
+Processing file: UMRA.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Umra
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\UMRA.json
+File summary: 463 inserted, 0 skipped (duplicates).
+
+Processing file: VAIJAPUR.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Vaijapur
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\VAIJAPUR.json
+File summary: 249 inserted, 0 skipped (duplicates).
+
+Processing file: vanjarwadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Wanjarwadi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\vanjarwadi.json
+File summary: 65 inserted, 0 skipped (duplicates).
+
+Processing file: Varhadi.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Waradi
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Varhadi.json
+File summary: 160 inserted, 0 skipped (duplicates).
+
+Processing file: Varud Gawali.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Warud Gawali
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Varud Gawali.json
+File summary: 500 inserted, 0 skipped (duplicates).
+
+Processing file: WADAD.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Wadad
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\WADAD.json
+File summary: 353 inserted, 0 skipped (duplicates).
+
+Processing file: Wadhona.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Wadhona pr. washim
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Wadhona.json
+File summary: 139 inserted, 0 skipped (duplicates).
+
+Processing file: Wanzola.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Wanzola
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Wanzola.json
+File summary: 325 inserted, 0 skipped (duplicates).
+
+Processing file: YELHEGAON HATKAR.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Yehlegaon Hatkar
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\YELHEGAON HATKAR.json
+File summary: 119 inserted, 0 skipped (duplicates).
+
+Processing file: Yeli.xlsx
+Parsed Location: State=MAHARASHTRA, District=HINGOLI, Taluka=Hingoli, Village=Yeli
+Saved converted JSON: D:\krushisetu\schemes (3)\schemes\schemes\govt-data\converted\Yeli.json
+File summary: 278 inserted, 1 skipped (duplicates).
+
+=== FINAL IMPORT STATISTICS ===
+Total files processed: 153
+Total records inserted: 39729
+Total records skipped: 2
+================================

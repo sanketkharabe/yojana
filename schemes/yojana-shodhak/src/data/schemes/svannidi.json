@@ -1,0 +1,83 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री स्ट्रीट व्हेंडर्स आत्मनिर्भर निधी योजना",
+      "english": "PM SVANidhi Scheme",
+      "short_name": "PM SVANidhi"
+    },
+    "launched_by": "Ministry of Housing and Urban Affairs, Government of India",
+    "launch_date": "2020-06-01",
+    "announced_in": "AtmaNirbhar Bharat Abhiyan (Special Economic Package 2020)",
+    "official_website": "https://pmsvanidhi.mohua.gov.in",
+    "helpline": "1800-11-1979",
+    "department": "Ministry of Housing and Urban Affairs (MoHUA)",
+    "department_address": "Nirman Bhawan, New Delhi – 110011",
+    "mobile_app": "PM SVANidhi App (available on Android)",
+    "budget_provision": {
+      "phase_1": "₹5,000 crore initial corpus",
+      "phase_2": "Extension with additional credit support by Government of India"
+    },
+    "active_beneficiaries_as_of_2026": "Over 60 lakh street vendors supported (approx.)",
+    "portal_stats": {
+      "total_applications_received": 0,
+      "total_applications_approved": 0,
+      "total_beneficiaries": 0
+    }
+  },
+
+  "objective": {
+    "primary": "To provide collateral-free working capital loans to street vendors across India",
+    "secondary": [
+      "Support urban informal economy recovery after COVID-19",
+      "Promote digital transactions among street vendors",
+      "Encourage financial inclusion through banking access",
+      "Enable self-employment and micro-entrepreneurship",
+      "Improve livelihood stability of street vendors"
+    ]
+  },
+
+  "benefits": {
+    "loan_assistance": {
+      "first_tranche": 10000,
+      "second_tranche": 20000,
+      "third_tranche": 50000,
+      "currency": "INR",
+      "interest_subsidy": "7% per annum subsidy on timely repayment",
+      "transfer_mode": "Direct bank transfer (collateral-free working capital loan)"
+    },
+    "additional_benefits": [
+      "Cashback up to ₹100 per month on digital transactions",
+      "Eligibility for higher loan slabs on timely repayment",
+      "Access to skill training and digital literacy programs",
+      "Integration with UPI and digital payment platforms"
+    ]
+  },
+
+  "eligibility_criteria": {
+    "gender": "All genders eligible",
+    "residency": {
+      "required": true,
+      "details": "Street vendors operating in urban areas of India"
+    },
+    "age": {
+      "minimum": 18,
+      "maximum": 65,
+      "unit": "years"
+    },
+    "street_vendor_proof": {
+      "required": true,
+      "details": "Must possess Certificate of Vending or ID card issued by Urban Local Body (ULB)"
+    },
+    "loan_history": {
+      "note": "First-time borrowers as well as existing small borrowers eligible"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Active savings bank account with Aadhaar linkage"
+    },
+    "qualification": {
+      "minimum_educational_qualification_required": false,
+      "note": "No educational requirement"
+    }
+  }
+}

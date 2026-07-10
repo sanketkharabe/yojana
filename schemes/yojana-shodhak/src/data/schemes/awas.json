@@ -1,0 +1,146 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री आवास योजना",
+      "english": "Pradhan Mantri Awas Yojana",
+      "short_name": "PMAY"
+    },
+    "launched_by": "Government of India",
+    "launch_date": "2015-06-25",
+    "official_website": "https://pmay-urban.gov.in",
+    "helpline": "1800-11-6446",
+    "nodal_ministry": "Ministry of Housing and Urban Affairs (Urban) / Ministry of Rural Development (Rural)",
+    "scheme_type": "Housing Assistance Scheme",
+    "coverage": [
+      "PMAY-Urban (PMAY-U)",
+      "PMAY-Gramin (PMAY-G)"
+    ],
+    "objective": "Housing for All"
+  },
+
+  "objective": {
+    "primary": "Provide pucca houses with basic amenities to eligible families",
+    "secondary": [
+      "Reduce homelessness",
+      "Support economically weaker families",
+      "Provide affordable housing",
+      "Improve living standards",
+      "Promote women ownership in housing"
+    ]
+  },
+
+  "benefits": {
+    "urban_benefits": {
+      "central_assistance": "Up to ₹1.5 lakh",
+      "interest_subsidy": "Available on eligible home loans",
+      "house_construction": true,
+      "house_purchase": true,
+      "house_enhancement": true
+    },
+
+    "rural_benefits": {
+      "plain_area_assistance": 120000,
+      "hilly_area_assistance": 130000,
+      "currency": "INR",
+      "additional_support": [
+        "MGNREGA wage support",
+        "Toilet assistance under Swachh Bharat Mission"
+      ]
+    }
+  },
+
+  "eligibility_criteria": {
+    "general_conditions": {
+      "pucca_house_ownership": {
+        "allowed": false,
+        "details": "Applicant or family should not own a pucca house anywhere in India"
+      },
+
+      "government_housing_benefit": {
+        "allowed": false,
+        "details": "Family should not have availed housing assistance from any government housing scheme earlier"
+      }
+    },
+
+    "urban_categories": {
+      "EWS": {
+        "annual_income_upto": 300000,
+        "currency": "INR"
+      },
+
+      "LIG": {
+        "annual_income_range": "₹3 lakh - ₹6 lakh"
+      },
+
+      "MIG": {
+        "annual_income_range": "₹6 lakh - ₹9 lakh"
+      }
+    },
+
+    "rural_eligibility": {
+      "basis": "SECC 2011 Data",
+      "eligible_categories": [
+        "Homeless families",
+        "Families living in kutcha houses",
+        "SC/ST households",
+        "Landless labourers",
+        "Economically weak rural households"
+      ]
+    },
+
+    "women_ownership": {
+      "preferred": true,
+      "details": "Female ownership or co-ownership is encouraged and mandatory in several PMAY-U categories"
+    },
+
+    "age": {
+      "minimum": 18,
+      "unit": "years"
+    },
+
+    "aadhaar": {
+      "required": true
+    }
+  },
+
+  "documents_required": {
+    "mandatory": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Address Proof",
+      "Identity Proof",
+      "Bank Account Details",
+      "Passport Size Photograph"
+    ],
+
+    "additional_documents": [
+      "Caste Certificate (if applicable)",
+      "Land Ownership Documents",
+      "Affidavit of Not Owning Pucca House"
+    ]
+  },
+
+  "application_process": {
+    "step_1": "Check eligibility under PMAY-U or PMAY-G",
+    "step_2": "Collect required documents",
+    "step_3": "Apply online or through local authority",
+    "step_4": "Verification by concerned department",
+    "step_5": "Approval and sanction of assistance",
+    "step_6": "Release of subsidy/financial assistance"
+  },
+
+  "important_features": {
+    "housing_for_all": true,
+    "women_priority": true,
+    "aadhaar_based_verification": true,
+    "urban_and_rural_coverage": true,
+    "interest_subsidy_available": true,
+    "direct_benefit_transfer": true
+  },
+
+  "contact_details": {
+    "official_website": "https://pmay-urban.gov.in",
+    "scheme_name": "Pradhan Mantri Awas Yojana",
+    "managed_by": "Government of India"
+  }
+}

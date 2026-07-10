@@ -1,0 +1,256 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "मुख्यमंत्री - माझी लाडकी बहीण योजना",
+      "english": "Mukhyamantri Majhi Ladki Bahin Yojana",
+      "short_name": "Ladki Bahin Yojana"
+    },
+    "launched_by": "Government of Maharashtra – Women and Child Development Department",
+    "launch_date": "2024-06-28",
+    "announced_in": "Maharashtra State Budget 2024-25",
+    "official_website": "https://ladakibahin.maharashtra.gov.in",
+    "helpline": "181",
+    "department": "Women and Child Development Department, Maharashtra",
+    "department_address": "3rd Floor, New Administrative Building, Madam Cama Road, Hutatma Rajguru Chowk, Mumbai – 400032",
+    "mobile_app": "Narishakti Doot App (available on Play Store)",
+    "budget_provision": {
+      "2025_26": "₹36,000 crore",
+      "2026_27": "₹26,000 crore"
+    },
+    "active_beneficiaries_as_of_april_2026": "approximately 1.75 crore women",
+    "portal_stats": {
+      "total_applications_received": 11270261,
+      "total_applications_approved": 10669139,
+      "total_beneficiaries": 0
+    }
+  },
+
+  "objective": {
+    "primary": "To provide economic independence to women in Maharashtra",
+    "secondary": [
+      "Improve health and nutrition of women",
+      "Strengthen the decisive role of women in family",
+      "Support women from economically weaker sections",
+      "Promote girls' education by reducing school dropouts",
+      "Financial empowerment of underprivileged women"
+    ]
+  },
+
+  "benefits": {
+    "monthly_financial_assistance": {
+      "standard_amount": 1500,
+      "currency": "INR",
+      "transfer_mode": "DBT (Direct Benefit Transfer) into Aadhaar-linked bank account",
+      "note_for_nsmn_beneficiaries": "Women receiving ₹1,000/month under Namo Shetkari Mahasanman Nidhi (NSMN) will receive only ₹500 under this scheme, totalling ₹1,500 from both schemes combined"
+    },
+    "additional_benefits": [
+      "Free LPG gas cylinders – 3 per year",
+      "Educational fee waivers for girls from OBC and EWS categories for higher education"
+    ]
+  },
+
+  "eligibility_criteria": {
+    "gender": "Female only",
+    "residency": {
+      "required": true,
+      "details": "Must be a permanent resident of Maharashtra state"
+    },
+    "age": {
+      "minimum": 21,
+      "maximum": 65,
+      "unit": "years",
+      "note": "Upper age limit was originally 60 years; extended to 65 years by CM Eknath Shinde"
+    },
+    "annual_family_income": {
+      "maximum": 250000,
+      "currency": "INR",
+      "note": "Outsourced employees, voluntary workers, and contract workers earning up to ₹2,50,000/year are also eligible"
+    },
+    "marital_status": {
+      "eligible_categories": [
+        "Married (विवाहित)",
+        "Widowed (विधवा)",
+        "Divorced (घटस्फोटीत)",
+        "Abandoned (परित्यक्ता)",
+        "Destitute (निराधार)",
+        "One unmarried woman per family (कुटुंबातील एक अविवाहित महिला)"
+      ],
+      "note": "Only ONE unmarried woman per family is eligible"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Must have an individual savings bank account linked with Aadhaar card",
+      "joint_account": "NOT eligible – Aadhaar Payment Bridge (APBS) routes funds to individual accounts only"
+    },
+    "family_vehicle": {
+      "four_wheeler_restriction": "Family should NOT own a four-wheeler vehicle (tractors are exempt)"
+    },
+    "qualification": {
+      "minimum_educational_qualification_required": false,
+      "note": "No minimum educational qualification is mandated for this scheme"
+    }
+  },
+
+  "ineligibility_criteria": {
+    "income": "Annual family income exceeds ₹2,50,000",
+    "taxpayer": "A family member is an income taxpayer",
+    "government_employee": "Applicant or family member holds a permanent government job",
+    "vehicle": "Family owns a four-wheeler vehicle (other than tractor)",
+    "kyc": "Incomplete e-KYC on the official portal",
+    "bank_issues": "Incorrect or mismatched bank account details",
+    "duplicate": "Duplicate application submitted",
+    "age_out_of_range": "Applicant is below 21 years or above 65 years of age",
+    "non_resident": "Not a permanent resident of Maharashtra",
+    "joint_account_holder": "Uses a joint bank account for DBT",
+    "government_land": "Condition regarding families owning government land has been REMOVED (no longer applies)"
+  },
+
+  "documents_required": [
+    {
+      "document": "Aadhaar Card",
+      "purpose": "Identity proof and Aadhaar-linking for DBT",
+      "mandatory": true
+    },
+    {
+      "document": "Bank Account Passbook / Details",
+      "purpose": "Individual bank account linked with Aadhaar for Direct Benefit Transfer",
+      "mandatory": true
+    },
+    {
+      "document": "Age Proof",
+      "purpose": "To verify applicant is between 21–65 years old",
+      "acceptable_documents": [
+        "Birth Certificate",
+        "School Leaving Certificate",
+        "Aadhaar Card (if DOB is present)"
+      ],
+      "mandatory": true
+    },
+    {
+      "document": "Income Certificate",
+      "purpose": "To confirm annual family income is below ₹2,50,000",
+      "mandatory": true
+    },
+    {
+      "document": "Ration Card",
+      "purpose": "Identification of economically weaker section and family details",
+      "mandatory": true
+    },
+    {
+      "document": "Domicile / Residence Certificate",
+      "purpose": "Proof of being a permanent resident of Maharashtra",
+      "mandatory": true
+    },
+    {
+      "document": "Address Proof",
+      "purpose": "Proof of residential address in Maharashtra",
+      "acceptable_documents": [
+        "Electricity Bill",
+        "Ration Card",
+        "Domicile Certificate"
+      ],
+      "mandatory": true
+    },
+    {
+      "document": "Passport-size Photographs",
+      "purpose": "Application form requirement",
+      "mandatory": true
+    },
+    {
+      "document": "Mobile Number",
+      "purpose": "OTP verification and online services",
+      "mandatory": true
+    },
+    {
+      "document": "Marital Status Proof (if applicable)",
+      "purpose": "For widowed, divorced, or abandoned women",
+      "acceptable_documents": [
+        "Death Certificate of husband (for widows)",
+        "Divorce Certificate",
+        "Abandonment Certificate"
+      ],
+      "mandatory": "Conditional – only if applicable"
+    }
+  ],
+
+  "application_process": {
+    "online": {
+      "portal": "https://ladakibahin.maharashtra.gov.in",
+      "steps": [
+        "Visit the official Ladki Bahin portal",
+        "Click on 'Applicant Login' on the homepage",
+        "Select 'Create an Account'",
+        "Fill in registration form: name, password, address",
+        "Verify mobile number via OTP",
+        "Log in and fill application form with personal, income, and bank details",
+        "Upload required documents",
+        "Submit the form"
+      ],
+      "app": "Narishakti Doot App (available on Play Store)"
+    },
+    "offline": {
+      "locations": [
+        "Zilla Parishad (District Council) office",
+        "Anganwadi Centers",
+        "Setu Suvidha Kendras"
+      ],
+      "steps": [
+        "Visit nearest Zilla Parishad or Anganwadi Center",
+        "Obtain the application form",
+        "Fill in all required details",
+        "Attach necessary documents",
+        "Submit completed form to the official"
+      ]
+    },
+    "processing_time": "30–45 days for complete applications",
+    "application_start_date": "2024-06-01",
+    "initial_deadline": "2024-08-31",
+    "extended_deadline": "2024-10-15"
+  },
+
+  "ekyc": {
+    "required": true,
+    "deadline": "2025-11-18",
+    "steps": [
+      "Visit the official Ladki Bahin Yojana website",
+      "Click on the 'e-KYC' option on the homepage",
+      "Enter Aadhaar number and captcha code",
+      "Tick the Aadhaar authentication consent",
+      "Click 'Get OTP'",
+      "Upload documents and required information (name, address, ration card number, income details)"
+    ],
+    "note": "e-KYC is mandatory to continue receiving monthly benefits"
+  },
+
+  "payment_details": {
+    "benefit_start_month": "July 2024",
+    "payment_frequency": "Monthly",
+    "payment_mode": "DBT – Aadhaar Payment Bridge System (APBS)",
+    "account_type_required": "Individual savings account (Aadhaar-seeded)",
+    "amount_per_month": 1500,
+    "currency": "INR"
+  },
+
+  "scheme_portal_data": {
+    "source": "ladakibahin.maharashtra.gov.in",
+    "total_applications_received": 11270261,
+    "total_applications_approved": 10669139,
+    "total_beneficiaries_on_portal": 0,
+    "note": "Portal figures as seen on official website screenshot; beneficiary count may update after final verification"
+  },
+
+  "related_schemes": [
+    {
+      "name": "Namo Shetkari Mahasanman Nidhi (NSMN)",
+      "monthly_benefit": 1000,
+      "note": "Women receiving NSMN get only ₹500 from Ladki Bahin; total = ₹1500"
+    }
+  ],
+
+  "metadata": {
+    "data_source": "ladakibahin.maharashtra.gov.in and verified news/government sources",
+    "last_updated": "2026-06-16",
+    "language": "English",
+    "compiled_by": "Research & Data Team"
+  }
+}

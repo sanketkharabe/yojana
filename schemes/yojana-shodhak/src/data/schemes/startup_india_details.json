@@ -1,0 +1,72 @@
+{
+  "scheme_details": {
+    "scheme_name": "Startup India Initiative",
+    "launch_date": "2016-01-16",
+    "nodal_agency": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "ministry": "Ministry of Commerce and Industry, Government of India",
+    "official_website": "https://www.startupindia.gov.in/",
+    "objective": "To build a strong eco-system for nurturing innovation and Startups in the country that will drive sustainable economic growth and generate large scale employment opportunities."
+  },
+  "action_plan_pillars": [
+    "Simplification and Handholding",
+    "Funding Support and Incentives",
+    "Industry-Academia Partnership and Incubation"
+  ],
+  "eligibility_criteria": {
+    "company_age": "Up to 10 years from the date of incorporation.",
+    "company_type": [
+      "Private Limited Company",
+      "Registered Partnership Firm",
+      "Limited Liability Partnership (LLP)"
+    ],
+    "annual_turnover": "Should not exceed Rs. 100 crore in any financial year (Revised limits up to Rs. 200/300 crore apply for specific categories like Deep Tech).",
+    "original_entity": "Should not be formed by splitting up or reconstructing an existing business.",
+    "innovation_and_scalability": "Must work towards development or improvement of a product, process, or service and have a scalable business model with high potential for wealth and employment generation."
+  },
+  "key_benefits_and_incentives": {
+    "tax_exemptions": {
+      "income_tax": "100% deduction of profits under Section 80-IAC for 3 consecutive financial years out of the first 10 years.",
+      "angel_tax": "Complete exemption from Angel Tax under Section 56(2)(viib) of the Income Tax Act."
+    },
+    "ipr_support": {
+      "patent_rebate": "80% rebate on patent filing fees.",
+      "trademark_rebate": "50% rebate on trademark filing fees.",
+      "fast_track_processing": "Fast-tracking of patent applications with facilitator support."
+    },
+    "funding_support": [
+      "Startup India Seed Fund Scheme (SISFS) for proof of concept, prototype development, and product trials.",
+      "Fund of Funds for Startups (FFS) to infuse capital.",
+      "Credit Guarantee Scheme for Startups (CGSS) for collateral-free loans."
+    ],
+    "regulatory_ease": [
+      "Self-certification compliance for 6 Labour Laws and 3 Environmental Laws.",
+      "Fast-track winding up of the company within 90 days under the Insolvency and Bankruptcy Code."
+    ]
+  },
+  "deep_tech_startups_special_rules_2026": {
+    "extended_company_age": "Recognition validity extended up to 20 years.",
+    "higher_turnover_limit": "Turnover limit increased up to Rs. 300 crore.",
+    "key_focus": "Scientific or technological advancements, high R&D investment, and IP development."
+  },
+  "registration_and_documents": {
+    "required_documents": [
+      "Certificate of Incorporation or Partnership Deed",
+      "Founders' PAN and Aadhaar details",
+      "Brief Business Plan or Pitch Deck",
+      "Details of Patents or Trademarks (if any)",
+      "Annual Accounts and Income Tax returns (for existing businesses)"
+    ],
+    "registration_platform": "National Single Window System (NSWS) / Startup India Portal"
+  },
+  "key_initiatives_and_platforms": [
+    "BHASKAR (Bharat Startup Knowledge Access Registry)",
+    "MAARG Mentorship Portal",
+    "National Startup Awards",
+    "States Startup Ranking Framework"
+  ],
+  "contact_and_support": {
+    "toll_free_number": "1800-115-565",
+    "working_hours": "10:00 AM to 05:30 PM",
+    "support_portal": "https://www.startupindia.gov.in/content/sih/en/contact.html"
+  }
+}

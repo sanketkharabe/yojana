@@ -1,0 +1,208 @@
+# Yojana Shodhak - PostgreSQL Database Queries
+
+This document contains all the PostgreSQL database queries used in the Yojana Shodhak backend for table creation, data ingestion, and API operations.
+
+---
+
+## 1. Table Creation (DDL Queries)
+These queries are used to reset (drop existing) and create the tables required for storing government scheme details, eligibility criteria, benefits, documents, and application steps.
+
+```sql
+-- Clean up existing tables to avoid conflicts
+DROP TABLE IF EXISTS disqualification_criteria CASCADE;
+DROP TABLE IF EXISTS documents_required CASCADE;
+DROP TABLE IF EXISTS benefits CASCADE;
+DROP TABLE IF EXISTS eligibility_criteria CASCADE;
+DROP TABLE IF EXISTS application_steps CASCADE;
+DROP TABLE IF EXISTS schemes CASCADE;
+
+-- 1. Schemes Table
+CREATE TABLE schemes (
+    id SERIAL PRIMARY KEY,
+    scheme_name_mr VARCHAR(255),
+    scheme_name_en VARCHAR(255),
+    short_name VARCHAR(100),
+    launched_by VARCHAR(255),
+    launch_date VARCHAR(100),
+    official_website VARCHAR(500),
+    helpline VARCHAR(255),
+    nodal_ministry VARCHAR(255),
+    implementing_agency VARCHAR(255),
+    scheme_type VARCHAR(255),
+    description TEXT
+);
+
+-- 2. Eligibility Criteria Table
+CREATE TABLE eligibility_criteria (
+    id SERIAL PRIMARY KEY,
+    scheme_id INTEGER REFERENCES schemes(id) ON DELETE CASCADE,
+    criteria_name VARCHAR(255),
+    details TEXT,
+    is_required BOOLEAN
+);
+
+-- 3. Benefits Table
+CREATE TABLE benefits (
+    id SERIAL PRIMARY KEY,
+    scheme_id INTEGER REFERENCES schemes(id) ON DELETE CASCADE,
+    benefit_name VARCHAR(255),
+    description TEXT
+);
+
+-- 4. Documents Required Table
+CREATE TABLE documents_required (
+    id SERIAL PRIMARY KEY,
+    scheme_id INTEGER REFERENCES schemes(id) ON DELETE CASCADE,
+    document_name VARCHAR(255),
+    doc_type VARCHAR(100) -- 'mandatory' or 'verification'
+);
+
+-- 5. Disqualification Criteria Table
+CREATE TABLE disqualification_criteria (
+    id SERIAL PRIMARY KEY,
+    scheme_id INTEGER REFERENCES schemes(id) ON DELETE CASCADE,
+    reason TEXT
+);
+
+-- 6. Application Steps Table
+CREATE TABLE application_steps (
+    id SERIAL PRIMARY KEY,
+    scheme_id INTEGER REFERENCES schemes(id) ON DELETE CASCADE,
+    step_no INTEGER,
+    description TEXT
+);
+```
+
+---
+
+## 2. Data Import Queries (DML Queries)
+These queries are used in the data ingestion pipeline (`importData.js`) to parse raw JSON scheme files and insert them into PostgreSQL tables.
+
+### 2.1 Insert Scheme
+Inserts the core scheme details and returns the newly generated ID to reference in child tables.
+```sql
+INSERT INTO schemes (
+  scheme_name_mr, scheme_name_en, short_name, launched_by, launch_date, 
+  official_website, helpline, nodal_ministry, implementing_agency, scheme_type, description
+) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING id;
+```
+
+### 2.2 Insert Eligibility Criteria
+```sql
+INSERT INTO eligibility_criteria (
+  scheme_id, criteria_name, details, is_required
+) VALUES ($1, $2, $3, $4);
+```
+
+### 2.3 Insert Benefits
+```sql
+INSERT INTO benefits (
+  scheme_id, benefit_name, description
+) VALUES ($1, $2, $3);
+```
+
+### 2.4 Insert Documents Required
+```sql
+INSERT INTO documents_required (
+  scheme_id, document_name, doc_type
+) VALUES ($1, $2, $3);
+```
+
+### 2.5 Insert Disqualification Criteria
+```sql
+INSERT INTO disqualification_criteria (
+  scheme_id, reason
+) VALUES ($1, $2);
+```
+
+### 2.6 Insert Application Steps
+```sql
+INSERT INTO application_steps (
+  scheme_id, step_no, description
+) VALUES ($1, $2, $3);
+```
+
+---
+
+## 3. Express API Server Queries
+These queries are used in `server.js` to handle frontend requests.
+
+### 3.1 Fetch All Schemes
+Used by the homepage to load all schemes.
+```sql
+SELECT * FROM schemes;
+```
+
+### 3.2 Fetch Scheme Details by ID
+Used to load the scheme information and details on the `SchemeDetails.jsx` page.
+```sql
+-- Get core scheme
+SELECT * FROM schemes WHERE id = $1;
+
+-- Get eligibility criteria
+SELECT * FROM eligibility_criteria WHERE scheme_id = $1;
+
+-- Get benefits
+SELECT * FROM benefits WHERE scheme_id = $1;
+
+-- Get required documents
+SELECT * FROM documents_required WHERE scheme_id = $1;
+
+-- Get disqualifications
+SELECT reason FROM disqualification_criteria WHERE scheme_id = $1;
+
+-- Get application steps ordered sequentially
+SELECT step_no, description FROM application_steps WHERE scheme_id = $1 ORDER BY step_no;
+```
+
+### 3.3 Create New Scheme (Admin/POST API)
+Inserts a scheme along with its nested child tables inside a database transaction (`BEGIN`, `COMMIT`, `ROLLBACK`).
+```sql
+BEGIN;
+
+-- 1. Insert scheme and get returning id
+INSERT INTO schemes (...) VALUES (...) RETURNING id;
+
+-- 2. Insert corresponding child table data
+INSERT INTO eligibility_criteria ...
+INSERT INTO benefits ...
+INSERT INTO documents_required ...
+INSERT INTO disqualification_criteria ...
+INSERT INTO application_steps ...
+
+COMMIT;
+```
+
+### 3.4 Update Existing Scheme (PUT API)
+Overwrites a scheme and updates details by dropping old relation data and inserting fresh ones inside a transaction.
+```sql
+BEGIN;
+
+-- 1. Update scheme table
+UPDATE schemes SET 
+  scheme_name_mr = $1, scheme_name_en = $2, short_name = $3, launched_by = $4, launch_date = $5, 
+  official_website = $6, helpline = $7, nodal_ministry = $8, implementing_agency = $9, scheme_type = $10, description = $11
+WHERE id = $12 RETURNING id;
+
+-- 2. Clear old children
+DELETE FROM eligibility_criteria WHERE scheme_id = $1;
+DELETE FROM benefits WHERE scheme_id = $1;
+DELETE FROM documents_required WHERE scheme_id = $1;
+DELETE FROM disqualification_criteria WHERE scheme_id = $1;
+DELETE FROM application_steps WHERE scheme_id = $1;
+
+-- 3. Insert updated children
+INSERT INTO eligibility_criteria ...
+INSERT INTO benefits ...
+INSERT INTO documents_required ...
+INSERT INTO disqualification_criteria ...
+INSERT INTO application_steps ...
+
+COMMIT;
+```
+
+### 3.5 Delete Scheme (DELETE API)
+Removes the scheme from the database. Linked relations are deleted automatically due to `ON DELETE CASCADE`.
+```sql
+DELETE FROM schemes WHERE id = $1 RETURNING id;
+```

@@ -1,0 +1,51 @@
+{
+  "scheme_details": {
+    "scheme_name": "National Scholarship Portal (NSP) - Central Sector Scheme of Scholarship for College and University Students",
+    "launch_date": "2008 (Integrated into NSP platform)",
+    "nodal_agency": "Department of Higher Education",
+    "ministry": "Ministry of Education, Government of India",
+    "official_website": "https://scholarships.gov.in/",
+    "objective": "To provide financial assistance to meritorious students from economically weaker sections to meet a part of their day-to-day expenses while pursuing higher studies."
+  },
+  "eligibility_criteria": {
+    "academic_performance": "Students who are above 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class XII (10+2 pattern).",
+    "course_type": "Pursuing regular courses (not correspondence or distance mode) in College/Institutions recognized by AICTE, UGC, MCI, DCI, or other regulatory bodies.",
+    "family_income_limit": "Gross parental/family income should not exceed Rs. 4.5 Lakh per annum.",
+    "other_scholarships": "The applicant must not be availing the benefits of any other scholarship scheme (Centrally funded, State-funded, or UGC/AICTE)."
+  },
+  "financial_assistance_and_benefits": {
+    "graduation_level": "Rs. 12,000 per annum for the first three years of college/university courses.",
+    "post_graduation_level": "Rs. 20,000 per annum for post-graduate courses (or for 4th and 5th years in case of professional courses).",
+    "technical_professional_courses": "For 4-5 year professional courses like B.Tech/B.E/B.Arch, Rs. 20,000 per annum is provided in the 4th and 5th year.",
+    "duration": "Maximum duration of 5 years, subject to regular renewal based on maintaining minimum 50% marks and 75% attendance."
+  },
+  "reservation_and_distribution": {
+    "slots_allocation": "Total of 82,000 fresh scholarships awarded every year (41,000 for boys and 41,000 for girls) distributed among State Education Boards based on the state's population in the 18-25 age group.",
+    "category_reservations": {
+      "scheduled_castes_sc": "15%",
+      "scheduled_tribes_st": "7.5%",
+      "other_backward_classes_obc": "27%",
+      "persons_with_disabilities_pwd": "5% horizontal reservation across all categories"
+    }
+  },
+  "registration_and_documents": {
+    "required_documents": [
+      "Scanned copy of Class XII Marksheet",
+      "Income Certificate issued by the competent authority",
+      "Caste Certificate (if applying under SC/ST/OBC category)",
+      "Disability Certificate (if applicable)",
+      "Bank Account details linked with Aadhaar (for Direct Benefit Transfer)",
+      "Bonafide Student Certificate from the current College/Institute",
+      "Fee Receipt of the current academic year"
+    ],
+    "application_platform": "National Scholarship Portal (NSP) official website"
+  },
+  "application_process_steps": [
+    "One-Time Registration (OTR) on the NSP Portal.",
+    "Generation of Unique OTR ID.",
+    "Filling up the specific Scholarship Application Form.",
+    "Uploading the required valid documents.",
+    "Submission of the form for Institutional Verification.",
+    "District/State-level re-verification before final merit list generation."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "इंदिरा गांधी राष्ट्रीय विधवा पेन्शन योजना",
+      "english": "Indira Gandhi National Widow Pension Scheme",
+      "short_name": "IGNWPS"
+    },
+    "launched_by": "Ministry of Rural Development, Government of India",
+    "launch_date": "2009-02-01",
+    "announced_in": "National Social Assistance Programme (NSAP)",
+    "official_website": "https://nsap.nic.in",
+    "helpline": "Varies by state (applications handled at local offices)",
+    "department": "Ministry of Rural Development",
+    "department_address": "Krishi Bhawan, New Delhi – 110001",
+    "mobile_app": "UMANG App (available on Android/iOS)",
+    "budget_provision": {
+      "central_assistance": "₹300 per month for widows aged 40–79 years",
+      "state_additional_support": "Varies by state (e.g., Maharashtra adds ₹1200 under Sanjay Gandhi Niradhar Anudan Yojana)",
+      "funding_source": "Shared between Central Government and State Governments under NSAP framework"
+    },
+    "active_beneficiaries_as_of_2026": "Over 30 lakh widows supported (approx.)",
+    "portal_stats": {
+      "total_applications_received": 0,
+      "total_applications_approved": 0,
+      "total_beneficiaries": 0
+    }
+  },
+
+  "objective": {
+    "primary": "To provide financial assistance and social security to widows belonging to Below Poverty Line (BPL) families",
+    "secondary": [
+      "Ensure minimum income support for widows in vulnerable households",
+      "Promote dignity, independence, and social inclusion of widows",
+      "Reduce poverty and dependency among widowed women",
+      "Encourage participation in welfare programs",
+      "Provide targeted support to widows in rural and urban areas"
+    ]
+  },
+
+  "benefits": {
+    "pension_assistance": {
+      "age_40_to_79": 300,
+      "age_80_and_above": 500,
+      "currency": "INR",
+      "transfer_mode": "Direct Benefit Transfer (DBT)",
+      "frequency": "Monthly",
+      "note": "States may provide additional top-up pension support"
+    },
+    "additional_benefits": [
+      "State governments may provide top-up pension (e.g., Maharashtra adds ₹1200)",
+      "Eligibility for other NSAP-linked schemes such as old-age pension and disability pension",
+      "Access to UMANG app for digital application and tracking",
+      "Integration with Aadhaar for transparency and reduced leakages",
+      "Awareness programs to ensure inclusion of widows in rural and urban areas"
+    ]
+  },
+
+  "eligibility_criteria": {
+    "gender": "Female (widows only)",
+    "residency": {
+      "required": true,
+      "details": "Applicant must be a resident of India"
+    },
+    "age": {
+      "minimum": 40,
+      "maximum": 79,
+      "unit": "years",
+      "note": "₹500 per month for 80+ years"
+    },
+    "marital_status": {
+      "required": true,
+      "details": "Applicant must be a widow (husband deceased)"
+    },
+    "economic_status": {
+      "required": true,
+      "details": "Must belong to Below Poverty Line (BPL) household"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Active savings bank account with Aadhaar linkage for DBT"
+    },
+    "qualification": {
+      "minimum_educational_qualification_required": false,
+      "note": "No educational requirement"
+    },
+    "documentation": {
+      "required_documents": [
+        "Death certificate of husband",
+        "BPL proof (ration card or income certificate)",
+        "Aadhaar card",
+        "Bank account details"
+      ]
+    }
+  },
+
+  "application_process": {
+    "online": {}
+  }
+}

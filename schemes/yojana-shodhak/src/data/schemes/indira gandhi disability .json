@@ -1,0 +1,141 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "इंदिरा गांधी राष्ट्रीय अपंगत्व पेन्शन योजना",
+      "english": "Indira Gandhi National Disability Pension Scheme",
+      "short_name": "IGNDPS"
+    },
+    "launched_by": "Ministry of Rural Development, Government of India",
+    "launch_date": "2009-02-01",
+    "announced_in": "National Social Assistance Programme (NSAP)",
+    "official_website": "https://nsap.nic.in",
+    "helpline": "Varies by state (applications handled at local offices)",
+    "department": "Ministry of Rural Development",
+    "department_address": "Krishi Bhawan, New Delhi – 110001",
+    "mobile_app": "UMANG App (available on Android/iOS)",
+    "budget_provision": {
+      "central_assistance": "₹300 per month (18–79 years), ₹500 per month (80+ years)",
+      "state_additional_support": "Varies by state (e.g., Maharashtra adds ₹1200 under Sanjay Gandhi Niradhar Anudan Yojana)",
+      "funding_source": "Shared between Central Government and State Governments under NSAP framework"
+    },
+    "active_beneficiaries_as_of_2026": "Over 25 lakh persons with disabilities supported (approx.)",
+    "portal_stats": {
+      "total_applications_received": 0,
+      "total_applications_approved": 0,
+      "total_beneficiaries": 0
+    }
+  },
+
+  "objective": {
+    "primary": "To provide financial assistance and social security to persons with severe disabilities from Below Poverty Line (BPL) families",
+    "secondary": [
+      "Ensure minimum income support for disabled individuals",
+      "Promote dignity, independence, and social inclusion",
+      "Reduce poverty and vulnerability in disabled households",
+      "Encourage participation in welfare programs",
+      "Provide targeted support to marginalized groups such as dwarfs and persons with multiple disabilities"
+    ]
+  },
+
+  "benefits": {
+    "pension_assistance": {
+      "age_18_to_79": 300,
+      "age_80_and_above": 500,
+      "currency": "INR",
+      "transfer_mode": "Direct Benefit Transfer (DBT)",
+      "frequency": "Monthly",
+      "note": "States may provide additional top-up pension support"
+    },
+    "additional_benefits": [
+      "State governments may provide top-up pension (e.g., Maharashtra adds ₹1200)",
+      "Eligibility for other NSAP-linked schemes such as widow pension and old-age pension",
+      "Access to UMANG app for digital application and tracking",
+      "Integration with Aadhaar for transparency and reduced leakages",
+      "Awareness programs to ensure inclusion of marginalized disabled persons"
+    ]
+  },
+
+  "eligibility_criteria": {
+    "gender": "All genders eligible",
+    "residency": {
+      "required": true,
+      "details": "Applicant must be a resident of India"
+    },
+    "age": {
+      "minimum": 18,
+      "maximum": 79,
+      "unit": "years",
+      "note": "₹500 per month for 80+ years"
+    },
+    "disability_proof": {
+      "required": true,
+      "details": "Disability certificate showing 80% or more disability (physical/mental); dwarfs also eligible"
+    },
+    "economic_status": {
+      "required": true,
+      "details": "Must belong to Below Poverty Line (BPL) household"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Active savings bank account with Aadhaar linkage for DBT"
+    },
+    "qualification": {
+      "minimum_educational_qualification_required": false,
+      "note": "No educational requirement"
+    },
+    "documentation": {
+      "required_documents": [
+        "Disability certificate issued by competent medical authority",
+        "BPL proof (ration card or income certificate)",
+        "Aadhaar card",
+        "Bank account details"
+      ]
+    }
+  },
+
+  "application_process": {
+    "online": {
+      "platforms": [
+        "UMANG App",
+        "NSAP Portal (https://nsap.nic.in)"
+      ],
+      "steps": [
+        "Register with mobile number",
+        "Fill personal and disability details",
+        "Upload scanned documents",
+        "Submit application for verification"
+      ]
+    },
+    "offline": {
+      "platforms": [
+        "Gram Panchayat / Block Office (rural)",
+        "Municipality / Municipal Council (urban)"
+      ],
+      "steps": [
+        "Collect application form from local office",
+        "Fill details and attach required documents",
+        "Submit to Panchayat/Tehsildar/Collector office",
+        "Verification by officer",
+        "Approval in Gram Sabha/Ward Sabha",
+        "Pension credited via DBT"
+      ]
+    }
+  },
+
+  "implementation_challenges": {
+    "issues": [
+      "Low pension amount compared to cost of living",
+      "Awareness gaps among rural disabled persons",
+      "Administrative delays in verification",
+      "Difficulty in obtaining disability certificates",
+      "Exclusion errors due to documentation barriers"
+    ],
+    "government_initiatives": [
+      "Digital platforms for easy application",
+      "Direct Benefit Transfer system for transparency",
+      "Awareness campaigns in rural and urban areas",
+      "State-level top-ups to increase pension amount",
+      "Periodic review of beneficiary lists"
+    ]
+  }
+}

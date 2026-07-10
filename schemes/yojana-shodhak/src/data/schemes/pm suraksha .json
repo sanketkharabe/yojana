@@ -1,0 +1,133 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री सुरक्षा विमा योजना",
+      "english": "Pradhan Mantri Suraksha Bima Yojana",
+      "short_name": "PMSBY"
+    },
+    "launched_by": "Government of India",
+    "launch_date": "2015-05-09",
+    "launched_at": "Kolkata, West Bengal",
+    "official_website": "https://jansuraksha.gov.in",
+    "helpline": "1800-180-1111",
+    "nodal_ministry": "Ministry of Finance, Government of India",
+    "implementing_agency": "Participating Banks, Post Offices and General Insurance Companies",
+    "policy_type": "Renewable One-Year Personal Accident Insurance Scheme",
+    "coverage_period": "1 June to 31 May every year"
+  },
+  "objective": {
+    "primary": "Provide affordable accident insurance coverage to citizens",
+    "secondary": [
+      "Financial support to families in case of accidental death",
+      "Protection against accidental disabilities",
+      "Increase insurance penetration among low-income households",
+      "Provide social security at a nominal premium"
+    ]
+  },
+  "benefits": {
+    "accidental_death_cover": {
+      "amount": 200000,
+      "currency": "INR"
+    },
+    "permanent_total_disability_cover": {
+      "amount": 200000,
+      "currency": "INR"
+    },
+    "partial_disability_cover": {
+      "amount": 100000,
+      "currency": "INR"
+    },
+    "premium": {
+      "annual_amount": 20,
+      "currency": "INR",
+      "payment_mode": "Auto-debit from bank account"
+    }
+  },
+  "eligibility_criteria": {
+    "citizenship": {
+      "required": true,
+      "details": "Indian residents and eligible bank account holders"
+    },
+    "age": {
+      "minimum": 18,
+      "maximum": 70,
+      "unit": "years"
+    },
+    "bank_account": {
+      "required": true,
+      "details": "Must have an active savings bank or post office account"
+    },
+    "aadhaar": {
+      "required": true,
+      "details": "Aadhaar is the primary KYC document"
+    },
+    "multiple_accounts": {
+      "allowed": false,
+      "note": "Only one PMSBY policy is allowed per individual"
+    },
+    "medical_examination": {
+      "required": false,
+      "details": "No medical examination required"
+    }
+  },
+  "documents_required": {
+    "mandatory": [
+      "Aadhaar Card",
+      "Savings Bank Account",
+      "Consent for Auto-Debit"
+    ],
+    "claim_documents": [
+      "Claim Form",
+      "Death Certificate (for death claims)",
+      "Disability Certificate",
+      "Hospital Records",
+      "FIR/Police Report (if applicable)",
+      "Nominee Identity Proof"
+    ]
+  },
+  "enrollment_process": {
+    "step_1": "Visit participating bank, post office, net banking or mobile banking portal",
+    "step_2": "Submit enrollment form",
+    "step_3": "Provide Aadhaar and nominee details",
+    "step_4": "Authorize annual premium auto-debit",
+    "step_5": "Coverage becomes active after successful enrollment"
+  },
+  "claim_process": {
+    "step_1": "Inform bank/insurance company about accident",
+    "step_2": "Submit claim form and supporting documents",
+    "step_3": "Verification by bank and insurer",
+    "step_4": "Claim approval by insurance company",
+    "step_5": "Benefit amount transferred to nominee/insured person"
+  },
+  "termination_conditions": {
+    "coverage_ends_if": [
+      "Subscriber attains age 70 years",
+      "Bank account is closed",
+      "Insufficient balance for premium deduction",
+      "Multiple PMSBY accounts detected",
+      "Policy voluntarily discontinued"
+    ]
+  },
+  "important_features": {
+    "accidental_death_cover": "₹2 Lakh",
+    "total_disability_cover": "₹2 Lakh",
+    "partial_disability_cover": "₹1 Lakh",
+    "annual_premium": "₹20",
+    "medical_test_required": false,
+    "renewable_every_year": true,
+    "auto_debit_facility": true,
+    "nominee_benefit": true
+  },
+  "statistics": {
+    "scheme_type": "Personal Accident Insurance",
+    "coverage_amount": "₹2 Lakh",
+    "annual_premium": "₹20",
+    "entry_age": "18-70 years",
+    "cumulative_enrolment_feb_2025": "50.15 crore subscribers"
+  },
+  "contact_details": {
+    "official_website": "https://jansuraksha.gov.in",
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "managed_by": "Ministry of Finance, Government of India"
+  }
+}

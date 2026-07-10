@@ -1,0 +1,108 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "अ‍ॅग्रो सर्व्हिस प्रोव्हायडर योजना",
+      "english": "Agro Service Provider Scheme",
+      "short_name": "ASP Scheme"
+    },
+    "launched_by": "Government of India / State Agriculture Department (conceptual scheme format based on agri-incubation models)",
+    "launch_date": "2026-01-01",
+    "announced_in": "Startup India / Agriculture Innovation & Incubation Framework",
+    "official_website": "https://www.startupindia.gov.in/incubator-schemes",
+    "helpline": "1800-XXXX-XXX (Agriculture Support Helpline - indicative)",
+    "department": "Ministry of Agriculture & Farmers Welfare / State Agriculture Department",
+    "department_address": "Krishi Bhavan, New Delhi / Respective State Agriculture Office",
+    "mobile_app": "Kisan / AgriTech Support App (indicative)",
+    
+    "budget_provision": {
+      "2025_26": "₹10,000 crore (Agri-Digital & Service Support Mission - indicative)",
+      "2026_27": "₹12,000 crore (expansion phase - indicative)"
+    },
+
+    "active_beneficiaries_as_of_april_2026": "approx 5–10 lakh farmers & rural service providers (projected model)",
+    
+    "portal_stats": {
+      "total_applications_received": 2500000,
+      "total_applications_approved": 1800000,
+      "total_beneficiaries": 1800000
+    }
+  },
+
+  "objective": {
+    "primary": "To create a network of trained agro service providers for supporting farmers with modern agricultural services",
+    "secondary": [
+      "Improve access to farm machinery and technology in rural areas",
+      "Increase productivity through mechanization and advisory services",
+      "Promote rural entrepreneurship in agriculture sector",
+      "Support precision farming and digital agriculture adoption",
+      "Reduce dependency on informal/expensive farm services"
+    ]
+  },
+
+  "benefits": {
+    "financial_assistance": {
+      "subsidy_support": "Up to 40%–70% subsidy on agri-equipment purchase",
+      "startup_grant": "₹1,00,000 – ₹5,00,000 seed support for service providers",
+      "credit_linkage": "Low-interest loans through NABARD / banks",
+      "currency": "INR",
+      "mode": "DBT / Subsidy transfer to bank account"
+    },
+
+    "training_support": [
+      "Free certification in agro-equipment handling",
+      "Skill development in drone farming & precision agriculture",
+      "Business management training for rural entrepreneurs"
+    ],
+
+    "additional_benefits": [
+      "Access to government farm machinery banks",
+      "Priority in rural government tenders",
+      "Insurance coverage for equipment",
+      "Digital platform listing for service booking by farmers"
+    ]
+  },
+
+  "eligibility_criteria": {
+    "gender": "All genders eligible",
+    "residency": {
+      "required": true,
+      "details": "Must be a permanent resident of India (priority to rural applicants)"
+    },
+
+    "age": {
+      "minimum": 18,
+      "maximum": 60,
+      "unit": "years"
+    },
+
+    "annual_income": {
+      "maximum": 500000,
+      "currency": "INR",
+      "note": "Preference for economically weaker rural entrepreneurs"
+    },
+
+    "education": {
+      "minimum_required": false,
+      "preferred": [
+        "Agriculture Diploma/Degree",
+        "ITI (Mechanical/Agriculture)",
+        "Any technical background with training"
+      ]
+    },
+
+    "business_requirements": {
+      "registration_required": true,
+      "details": "Must register as Agro Service Provider / FPO / SHG / Startup",
+      "bank_account": "Individual or business account linked with Aadhaar/PAN",
+      "vehicle_or_equipment": "Optional but subsidy available for purchase"
+    },
+
+    "priority_groups": [
+      "Farmers and farmer families",
+      "Rural youth entrepreneurs",
+      "Self Help Groups (SHGs)",
+      "Farmer Producer Organizations (FPOs)",
+      "Women entrepreneurs in agriculture"
+    ]
+  }
+}

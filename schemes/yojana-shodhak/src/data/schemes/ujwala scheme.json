@@ -1,0 +1,141 @@
+{
+  "scheme": {
+    "name": {
+      "marathi": "प्रधानमंत्री उज्ज्वला योजना",
+      "english": "Pradhan Mantri Ujjwala Yojana",
+      "short_name": "PMUY"
+    },
+    "launched_by": "Government of India",
+    "launch_date": "2016-05-01",
+    "launched_at": "Ballia, Uttar Pradesh",
+    "official_website": "https://www.pmuy.gov.in",
+    "helpline": "1906",
+    "nodal_ministry": "Ministry of Petroleum and Natural Gas",
+    "implementing_agencies": [
+      "Indian Oil Corporation Limited (IOCL)",
+      "Bharat Petroleum Corporation Limited (BPCL)",
+      "Hindustan Petroleum Corporation Limited (HPCL)"
+    ],
+    "current_version": "PMUY 2.0"
+  },
+
+  "objective": {
+    "primary": "Provide clean cooking fuel (LPG) to poor households",
+    "secondary": [
+      "Reduce indoor air pollution",
+      "Improve women's health",
+      "Reduce dependence on firewood and coal",
+      "Empower women through clean energy access",
+      "Protect environment and forests"
+    ]
+  },
+
+  "benefits": {
+    "free_lpg_connection": {
+      "provided": true,
+      "security_deposit": "Paid by Government"
+    },
+
+    "financial_assistance": {
+      "amount": 1600,
+      "currency": "INR",
+      "purpose": "New LPG connection support"
+    },
+
+    "pmuy_2_0_benefits": [
+      "Free LPG connection",
+      "Free first refill",
+      "Free LPG stove (hotplate)"
+    ],
+
+    "subsidy": {
+      "available": true,
+      "transfer_mode": "DBT to beneficiary bank account"
+    }
+  },
+
+  "eligibility_criteria": {
+    "gender": {
+      "required": "Female only"
+    },
+
+    "minimum_age": {
+      "age": 18,
+      "unit": "years"
+    },
+
+    "residency": {
+      "required": true,
+      "details": "Must be an Indian citizen"
+    },
+
+    "household_requirement": {
+      "details": "Applicant's household should not already have an LPG connection"
+    },
+
+    "eligible_categories": [
+      "SECC 2011 listed poor households",
+      "Scheduled Caste (SC)",
+      "Scheduled Tribe (ST)",
+      "Pradhan Mantri Awas Yojana (Gramin) beneficiaries",
+      "Antyodaya Anna Yojana (AAY) families",
+      "Most Backward Classes (MBC)",
+      "Forest Dwellers",
+      "Tea Garden Workers",
+      "Island and River Island residents",
+      "Poor households identified by State Governments"
+    ],
+
+    "bank_account": {
+      "required": true,
+      "details": "Applicant should have a bank account for DBT subsidy"
+    },
+
+    "aadhaar": {
+      "required": true,
+      "details": "Aadhaar card required for verification"
+    }
+  },
+
+  "documents_required": {
+    "mandatory": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Account Passbook",
+      "Passport Size Photograph",
+      "Address Proof",
+      "Mobile Number"
+    ]
+  },
+
+  "application_process": {
+    "step_1": "Visit nearest LPG distributor",
+    "step_2": "Collect and fill PMUY application form",
+    "step_3": "Submit required documents",
+    "step_4": "Verification of eligibility",
+    "step_5": "Approval and LPG connection release",
+    "step_6": "Receive LPG cylinder, regulator and connection kit"
+  },
+
+  "important_features": {
+    "women_only_scheme": true,
+    "free_lpg_connection": true,
+    "free_first_refill": true,
+    "free_stove": true,
+    "dbt_subsidy": true,
+    "clean_fuel_promotion": true
+  },
+
+  "statistics": {
+    "scheme_type": "Clean Cooking Fuel Scheme",
+    "launch_year": 2016,
+    "beneficiaries": "10+ crore LPG connections released",
+    "target_group": "Poor Women Households"
+  },
+
+  "contact_details": {
+    "official_website": "https://www.pmuy.gov.in",
+    "lpg_emergency_helpline": "1906",
+    "managed_by": "Ministry of Petroleum and Natural Gas"
+  }
+}
