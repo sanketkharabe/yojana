@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd schemes/yojana-shodhak && npm install && npm run build",
+  "outputDirectory": "schemes/yojana-shodhak/dist"
+}
